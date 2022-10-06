@@ -16,21 +16,14 @@ Websites Project
 - [ ] Decide on webpage background color
 - [ ] Implement background color
 - [ ] Implement webpage title 
+- [ ] Implement a footer
+- [ ] Add some images of enemies weapons etc...
 - [ ] Develop "Bosses" page
 - [ ] Implement "Weapons" page
 - [ ] Develop "Weapons" page
 - [ ] Implement "Bosses" page
 - [ ] Develop "Classes" page
 - [ ] Implement "Classes" page
-- [ ] e
-- [ ] e
-- [ ] e
-- [ ] e
-- [ ] e
-- [ ] e
-- [ ] e
-- [ ] e
-- [ ] e
-- [ ] e
-- [ ] e
-- [ ] e
+- [ ] Devlop "Biomes" page
+- [ ] Implement "Biomes" page
+- [ ] Implement a footer
