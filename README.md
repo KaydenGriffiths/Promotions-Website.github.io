@@ -12,17 +12,16 @@ Websites Project
 ### To Do List
 - [ ] Create a to do list
 - [ ] Add more items to the list
-- [ ] Decide on a sexy title to webpage 
+- [ ] think of a webpage title 
 - [ ] Decide on webpage background color
 - [ ] Implement background color
 - [ ] Implement webpage title 
-- [ ] Implement "Bosses" page
+- [ ] Develop "Bosses" page
 - [ ] Implement "Weapons" page
-- [ ] e
-- [ ] e
-- [ ] e 
-- [ ] e 
-- [ ] e 
+- [ ] Develop "Weapons" page
+- [ ] Implement "Bosses" page
+- [ ] Develop "Classes" page
+- [ ] Implement "Classes" page
 - [ ] e
 - [ ] e
 - [ ] e
