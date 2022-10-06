@@ -12,3 +12,7 @@ Websites Project
 ### To Do List
 - [ ] Create a to do list
 - [ ] Add more items to the list
+- [ ] Decide on a sexy title to webpage 
+- [ ] Decide on webpage background color
+- [ ] Implement the background color 
+- [ ] 
