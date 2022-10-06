@@ -18,20 +18,20 @@ Websites Project
 - [ ] Implement webpage title 
 - [ ] Implement "Bosses" page
 - [ ] Implement "Weapons" page
-- [ ] 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] e
+- [ ] e
+- [ ] e 
+- [ ] e 
+- [ ] e 
+- [ ] e
+- [ ] e
+- [ ] e
+- [ ] e
+- [ ] e
+- [ ] e
+- [ ] e
+- [ ] e
+- [ ] e
+- [ ] e
+- [ ] e
+- [ ] e
