@@ -14,5 +14,24 @@ Websites Project
 - [ ] Add more items to the list
 - [ ] Decide on a sexy title to webpage 
 - [ ] Decide on webpage background color
-- [ ] Implement the background color 
+- [ ] Implement background color
+- [ ] Implement webpage title 
+- [ ] Implement "Bosses" page
+- [ ] Implement "Weapons" page
 - [ ] 
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
