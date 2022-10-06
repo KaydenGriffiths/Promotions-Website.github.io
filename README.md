@@ -26,4 +26,5 @@ Websites Project
 - [ ] Implement "Classes" page
 - [ ] Devlop "Biomes" page
 - [ ] Implement "Biomes" page
-- [ ] Implement a footer
+- [ ] Add videos(gifs probably or short videos)
+- [ ] 
