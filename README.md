@@ -30,4 +30,6 @@ Websites Project
 - [ ] Devlop "Biomes" page
 - [ ] Implement "Biomes" page
 - [ ] Add videos(gifs probably or short videos)
+- [ ] Finally start letter formating
 - [ ] Get coding you lazy boy 
+- [ ] Cry.
