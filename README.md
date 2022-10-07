@@ -9,9 +9,12 @@ Websites Project
 - <del> [x] this is a crossed out item that looks wrong </del>
 - [x] <del> this is a crossed out item that looks good </del>
 ---
-### To Do List
+### To Do List Example
 - [ ] Create a to do list
 - [ ] Add more items to the list
+
+---
+#### To Do List 
 - [ ] think of a webpage title 
 - [ ] Decide on webpage background color
 - [ ] Implement background color
@@ -27,4 +30,4 @@ Websites Project
 - [ ] Devlop "Biomes" page
 - [ ] Implement "Biomes" page
 - [ ] Add videos(gifs probably or short videos)
-- [ ] 
+- [ ] Get coding you lazy boy 
