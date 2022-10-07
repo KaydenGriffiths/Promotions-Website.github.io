@@ -10,8 +10,8 @@ Websites Project
 - [x] <del> this is a crossed out item that looks good </del>
 ---
 ### To Do List Example
-- [ ] Create a to do list
-- [ ] Add more items to the list
+- [x] <del> Create a to do list </del>
+- [x] <del> Add more items to the list </del>
 
 ---
 #### To Do List 
