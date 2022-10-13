@@ -15,21 +15,21 @@ Websites Project
 
 ---
 #### To Do List 
-- [ ] think of a webpage title 
-- [ ] Decide on webpage background color
-- [ ] Implement background color
-- [ ] Implement webpage title 
-- [ ] Implement a footer
+- [ ] <del> think of a webpage title </del>
+- [ ] <del> Decide on webpage background color </del>
+- [ ] <del> Implement background color </del>
+- [ ] <del> Implement webpage title </del>
+- [ ] <del> Implement a footer </del>
 - [ ] Add some images of enemies weapons etc...
 - [ ] Develop "Bosses" page
-- [ ] Implement "Weapons" page
+- [ ] <del> Implement "Weapons" page </del>
 - [ ] Develop "Weapons" page
-- [ ] Implement "Bosses" page
+- [ ] <del> Implement "Bosses" page </del>
 - [ ] Develop "Classes" page
-- [ ] Implement "Classes" page
+- [ ] <del> Implement "Classes" page </del>
 - [ ] Devlop "Biomes" page
-- [ ] Implement "Biomes" page
+- [ ] <del> Implement "Biomes" page </del>
 - [ ] Add videos(gifs probably or short videos)
 - [ ] Finally start letter formating
-- [ ] Get coding you lazy boy 
-- [ ] Cry.
+- [x] <del> Get coding you lazy boy </del>
+- [x] <del> Cry </del>
