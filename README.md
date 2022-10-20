@@ -25,7 +25,7 @@ Websites Project
 - [x] <del> Implement "Weapons" page </del>
 - [ ] Develop "Weapons" page
 - [x] <del> Implement "Bosses" page </del>
-- [x] <del> Develop "Classes" page </del>
+- [ ] Develop "Classes" page
 - [ ] <del> Implement "Classes" page </del>
 - [ ] Devlop "Biomes" page
 - [x] <del> Implement "Biomes" page </del>
